@@ -1,0 +1,15 @@
+.oddNumber{
+    background-color: rgb(255, 178, 178);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#oneId {
+    color: rgb(10, 10, 247);
+    font-size: 36px;
+}
+.adjust-font-size{
+    font-size: 24px;
+}
+#anotherID{
+    background-color: rgb(87, 240, 87);
+    font-weight: bold;
+}
